@@ -1,0 +1,4 @@
+Sitemap: https://save-grey-library.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: save-grey-library.github.io
